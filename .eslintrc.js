@@ -39,7 +39,7 @@ module.exports = {
         rootPathSuffix: "src"
       },
     },
-    webpack: { config: path.resolve('./config-overrides.js'), },
+    //webpack: { config: path.resolve('./config-overrides.js'), },
   },
 };
 
